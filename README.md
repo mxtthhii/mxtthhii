@@ -1,12 +1,4 @@
-<!--
-  REPLACE BEFORE PUBLISHING
-  YOUR_GITHUB_USERNAME  ->  your GitHub username (profile link + all stats cards)
-  YOUR_LINKEDIN_URL     ->  your full LinkedIn profile URL
-  YOUR_REPO_URL         ->  each project's repository URL (one per project card)
 
-  The header/footer banner (capsule-render) and stats cards (github-readme-stats,
-  streak-stats, github-readme-activity-graph) are rendered by third-party services.
-  They are the only external images and can be removed or self-hosted at any time.
 -->
 
 <div align="center">
