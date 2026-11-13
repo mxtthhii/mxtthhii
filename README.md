@@ -334,7 +334,7 @@ VoiceIt Radio Club, VIT Chennai
 
 **Email:** [mathiii1801@gmail.com](mailto:mathiii1801@gmail.com)<br/>
 **LinkedIn:** (](https://www.linkedin.com/in/mxtthhii/))<br/>
-**GitHub:** [https://github.com/mxtthhii](https://github.com/YOUR_GITHUB_USERNAME)
+**GitHub:** [https://github.com/mxtthhii]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:4F46E5,100:9333EA&height=90&section=footer" width="100%" alt="" />
 
